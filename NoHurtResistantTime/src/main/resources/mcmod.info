@@ -1,0 +1,16 @@
+[
+{
+  "modid": "NoHurtResistantTime",
+  "name": "No Hurt Resistant Time",
+  "description": "This mod removes Hurt Resistant Time",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["macskacico"],
+  "credits": "macskacico",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
